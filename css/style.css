@@ -104,6 +104,11 @@ nav ul li a:hover {
 	
 	
 /*---bevezetés--*/
+.bevezetes-wrapper{
+			width: 80%;
+			float: left;
+		}
+	
 #p1 {
 	color: #F5F5F5;
 	font-size: 20px;
