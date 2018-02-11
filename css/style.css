@@ -8,6 +8,13 @@ header{
 	height: 110px;
 }
 
+
+/*---particle--*/
+#particles-js{
+			height: 100%;
+			background: #262626;
+			}
+
 /*--- navigáció--*/
 nav {
     float: right;
